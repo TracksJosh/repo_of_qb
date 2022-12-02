@@ -1,0 +1,58 @@
+body{
+	background-color: #2B2C2E;
+}
+
+.button {
+	transform: translateX(5%);
+	padding-bottom: 0px;
+	
+}
+
+.header {
+	font-family: "Britannic";
+	text-align: center;
+	color: #D5D4D2;
+	font-size: 108;
+}
+
+.flavor {
+	font-family: "Britannic";
+	text-align: center;
+	color: #D5D4D2;
+	font-size: 18;
+	font-style: italic;
+	margin-top: -75px;
+}
+
+.tossup {
+	font-family: "Special Elite";
+	font-size: 50;
+	text-align: center;
+	border-radius: 25px;
+	padding: 1px;
+    width: 800px;
+    height: auto;
+	margin: auto;
+	margin-top: 10px;
+	overflow-wrap: break-word;
+	background-color: #A3A2A1;
+}
+
+.tossup-tossup {
+	border-radius: 1px;
+	padding: 5px;
+
+}
+
+.tossup-answer {
+	border-radius: 1px;
+	padding: 5px;
+}
+
+a:link {
+	color: #ABA99D;
+}
+
+a:visited{
+	color: #828282;
+}

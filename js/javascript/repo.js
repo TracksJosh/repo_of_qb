@@ -1,0 +1,1 @@
+const obj = fetch("js/json/tossups.json");
