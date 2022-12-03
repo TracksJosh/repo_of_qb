@@ -2,24 +2,19 @@ body{
 	background-color: #2B2C2E;
 }
 
-.button {
-	transform: translateX(5%);
-	padding-bottom: 0px;
-	
-}
 
 .header {
 	font-family: "Britannic";
 	text-align: center;
 	color: #D5D4D2;
-	font-size: 108;
+	font-size: 108px;
 }
 
 .flavor {
 	font-family: "Britannic";
 	text-align: center;
 	color: #D5D4D2;
-	font-size: 18;
+	font-size: 18px;
 	font-style: italic;
 	margin-top: -75px;
 }
