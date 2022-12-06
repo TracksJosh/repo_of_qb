@@ -7,10 +7,10 @@
          "name":"Kelvin",
          "date_added":"12/1/22",
          "links":[{
-		 "pages/kelvin/stock.html",
-		 "obscure":"pages/kelvin/obscure.html",
-		 "wiki":"https://en.wikipedia.org/wiki/Kelvin",
-		 "youtube":"https://www.youtube.com/watch?v=on9ifJim870"
+		     "stock":"pages/kelvin/stock.html",
+		     "obscure":"pages/kelvin/obscure.html",
+		     "wiki":"https://en.wikipedia.org/wiki/Kelvin",
+		     "youtube":"https://www.youtube.com/watch?v=on9ifJim870"
          }]
       },
 	  {
