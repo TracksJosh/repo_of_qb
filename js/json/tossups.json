@@ -6,12 +6,12 @@
          "subcategory":"Physics",
          "name":"Kelvin",
          "date_added":"12/1/22",
-         "links":{
-            "stock":"pages/kelvin/stock.html",
-            "obscure":"pages/kelvin/obscure.html",
-            "wiki":"https://en.wikipedia.org/wiki/Kelvin",
-            "youtube":"https://www.youtube.com/watch?v=on9ifJim870"
-         }
+         "links":[{
+		     "pages/kelvin/stock.html",
+		     "pages/kelvin/obscure.html",
+		     "https://en.wikipedia.org/wiki/Kelvin",
+		     "https://www.youtube.com/watch?v=on9ifJim870"
+         }]
       },
 	  {
          "id":2,
@@ -19,12 +19,38 @@
          "subcategory":"World History",
          "name":"Tibet",
          "date_added":"12/6/22",
-         "links":{
-            "stock":"pages/tibet_history/stock.html",
-            "obscure":"pages/tibet_history/obscure.html",
-            "wiki":"https://en.wikipedia.org/wiki/Tibet",
-            "youtube":"https://www.youtube.com/watch?v=D5a8dbb39EU"
-         }
+         "links":[{
+            "pages/tibet_history/stock.html",
+            "pages/tibet_history/obscure.html",
+            "https://en.wikipedia.org/wiki/Tibet",
+            "https://www.youtube.com/watch?v=D5a8dbb39EU"
+         }]
+      },
+	  {
+         "id":3,
+         "category":"History",
+         "subcategory":"European History",
+         "name":"Utrecht",
+         "date_added":"12/6/22",
+         "links":[{
+            "pages/utrecht/stock.html",
+            "pages/utrecht/obscure.html",
+            "https://en.wikipedia.org/wiki/Utrecht",
+            "https://www.youtube.com/watch?v=pnXWEU6mnfg"
+         }]
+      },
+	  {
+         "id":4,
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Mobius Strip",
+         "date_added":"12/6/22",
+         "links":[{
+            "pages/mobius_strip/stock.html",
+            "pages/mobius_strip/obscure.html",
+            "https://en.wikipedia.org/wiki/Mobius_strip",
+            "https://www.youtube.com/watch?v=dj3HqRtC-T8"
+         }]
       }
    ]
 }

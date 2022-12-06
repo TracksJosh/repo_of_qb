@@ -1,11 +1,20 @@
+const img = ["img/stock.png", "img/obscure.png", "img/wiki.png", "img/youtube.png", "img/music.png"]
+
 async function getData()
 {
-    const obj = await fetch("https://tracksjosh.github.io/repo_of_qb/js/json/tossups.json");
+    const obj = await fetch("https://raw.githubusercontent.com/TracksJosh/repo_of_qb/main/js/json/tossups.json");
 	const data = await obj.json();
 	let text = "";
-	for(var i = 1; i <= data.tossups.length; i++)
+	for(var i = 0; i < data.tossups.length; i++)
 	{
-	    text += `<div class="tossup"><p>`+data.tossups[i-1].name+`</p></div>`;	
+	    text += `<div class="tossup"><p>`+data.tossups[i].name;	
+		console.log(data.tossups[i].links);
+		for(var j = 0; j < data.tossups[i].links; j++)
+		{
+			console.log(data.tossups[i].links);
+			text += `<a href=`+data.tossups[i].links[j]+`><img src=`+img[j]+`></a>`
+		}
+		text += `</p></div>`;
 	}
     
     document.getElementById("query").innerHTML = text;
