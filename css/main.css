@@ -44,6 +44,12 @@ body{
 	padding: 5px;
 }
 
+.selection{
+	width: 3%;
+	height: 3%;
+	padding-right: 5px;
+}
+
 a:link {
 	color: #ABA99D;
 }

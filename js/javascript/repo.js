@@ -7,11 +7,11 @@ async function getData()
 	let text = "";
 	for(var i = 0; i < data.tossups.length; i++)
 	{
-	    text += `<div class="tossup"><p>`+data.tossups[i].name;	
+	    text += `<div class="tossup"><p>`+data.tossups[i].name+` `;	
 		console.log(data.tossups[i].links);
 		for(var j = 0; j < data.tossups[i].links.length; j++)
 		{
-			text += `<a href=`+data.tossups[i].links[j]+`><img src=`+img[j]+`></a>`
+			text += `<a href=`+data.tossups[i].links[j]+`><img class="selection" src=`+img[j]+`></a>`
 		}
 		text += `</p></div>`;
 	}
