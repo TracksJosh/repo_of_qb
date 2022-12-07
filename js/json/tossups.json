@@ -7,49 +7,81 @@
          "name":"Kelvin",
          "date_added":"12/1/22",
          "links":[
-		     {"stock":"pages/kelvin/stock.html"},
-		     {"obscure":"pages/kelvin/obscure.html"},
-		     {"wiki":"https://en.wikipedia.org/wiki/Kelvin"},
-			 {"youtube":"https://www.youtube.com/watch?v=on9ifJim870"}
-		 ]
+            {
+               "stock":"pages/kelvin/stock.html"
+            },
+            {
+               "obscure":"pages/kelvin/obscure.html"
+            },
+            {
+               "wiki":"https://en.wikipedia.org/wiki/Kelvin"
+            },
+            {
+               "youtube":"https://www.youtube.com/watch?v=on9ifJim870"
+            }
+         ]
       },
-	  {
+      {
          "id":2,
          "category":"History",
          "subcategory":"World History",
          "name":"Tibet",
          "date_added":"12/6/22",
          "links":[
-            {"stock":"pages/tibet_history/stock.html"},
-            {"obscure":"pages/tibet_history/obscure.html"},
-            {"wiki":"https://en.wikipedia.org/wiki/Tibet"},
-			{"youtube":"https://www.youtube.com/watch?v=D5a8dbb39EU"}
+            {
+               "stock":"pages/tibet_history/stock.html"
+            },
+            {
+               "obscure":"pages/tibet_history/obscure.html"
+            },
+            {
+               "wiki":"https://en.wikipedia.org/wiki/Tibet"
+            },
+            {
+               "youtube":"https://www.youtube.com/watch?v=D5a8dbb39EU"
+            }
          ]
       },
-	  {
+      {
          "id":3,
          "category":"History",
          "subcategory":"European History",
          "name":"Utrecht",
          "date_added":"12/6/22",
          "links":[
-            {"stock":"pages/utrecht/stock.html"},
-            {"obscure":"pages/utrecht/obscure.html"},
-            {"wiki":"https://en.wikipedia.org/wiki/Utrecht"},
-			{"youtube":"https://www.youtube.com/watch?v=pnXWEU6mnfg"}
+            {
+               "stock":"pages/utrecht/stock.html"
+            },
+            {
+               "obscure":"pages/utrecht/obscure.html"
+            },
+            {
+               "wiki":"https://en.wikipedia.org/wiki/Utrecht"
+            },
+            {
+               "youtube":"https://www.youtube.com/watch?v=pnXWEU6mnfg"
+            }
          ]
       },
-	  {
+      {
          "id":4,
          "category":"Science",
          "subcategory":"Math",
          "name":"Mobius Strip",
          "date_added":"12/6/22",
          "links":[
-            {"stock":"pages/mobius_strip/stock.html"},
-            {"obscure":"pages/mobius_strip/obscure.html"},
-            {"wiki":"https://en.wikipedia.org/wiki/Mobius_strip"},
-			{"youtube":"https://www.youtube.com/watch?v=dj3HqRtC-T8"}
+            {
+               "stock":"pages/mobius_strip/stock.html"
+            },
+            {
+               "obscure":"pages/mobius_strip/obscure.html"
+            },
+            {
+               "wiki":"https://en.wikipedia.org/wiki/Mobius_strip"
+            },
+            {
+               "youtube":"https://www.youtube.com/watch?v=dj3HqRtC-T8"
+            }
          ]
       }
    ]
