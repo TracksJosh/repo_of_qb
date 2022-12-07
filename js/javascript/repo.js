@@ -8,10 +8,9 @@ async function getData()
 	for(var i = 0; i < data.tossups.length; i++)
 	{
 	    text += `<div class="tossup"><p>`+data.tossups[i].name;	
-		console.log(data.tossups[i].links);
 		for(var j = 0; j < data.tossups[i].links; j++)
 		{
-			console.log(data.tossups[i].links);
+			console.log(data.tossups[i].links[j]);
 			text += `<a href=`+data.tossups[i].links[j]+`><img src=`+img[j]+`></a>`
 		}
 		text += `</p></div>`;
