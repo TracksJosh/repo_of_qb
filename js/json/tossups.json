@@ -51,6 +51,123 @@
             "https://en.wikipedia.org/wiki/Mobius_strip",
             "https://www.youtube.com/watch?v=dj3HqRtC-T8"
          ]
+      },
+      {
+         "id":5,
+         "category":"Literature",
+         "subcategory":"Other Literature",
+         "name":"A Modest Proposal",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/modest_proposal/stock.html",
+            "pages/modest_proposal/obscure.html",
+            "https://en.wikipedia.org/wiki/A_Modest_Proposal",
+            "https://www.youtube.com/watch?v=MaoUF24DjBE"
+         ]
+      },
+      {
+         "id":6,
+         "category":"History",
+         "subcategory":"European History",
+         "name":"Rothschild Family",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/modest_proposal/stock.html",
+            "pages/modest_proposal/obscure.html",
+            "https://en.wikipedia.org/wiki/Rothschild_family",
+            "https://www.youtube.com/watch?v=KYCDT44qxJ0"
+         ]
+      },
+      {
+         "id":7,
+         "category":"Science",
+         "subcategory":"Physics",
+         "name":"Quark",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/quark/stock.html",
+            "pages/quark/obscure.html",
+            "https://en.wikipedia.org/wiki/Quark",
+            "https://www.youtube.com/watch?v=LraNu_78sCw"
+         ]
+      },
+      {
+         "id":8,
+         "category":"Fine Arts",
+         "subcategory":"Other Fine Arts",
+         "name":"Central Park",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/central_park/stock.html",
+            "pages/central_park/obscure.html",
+            "https://en.wikipedia.org/wiki/Central_Park",
+            "https://www.youtube.com/watch?v=z520TWV_4qw"
+         ]
+      },
+      {
+         "id":9,
+         "category":"Literature",
+         "subcategory":"British Literature",
+         "name":"Percy Shelley",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/percy_shelley/stock.html",
+            "pages/percy_shelley/obscure.html",
+            "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley",
+            "https://www.youtube.com/watch?v=jAv-40vNPhY"
+         ]
+      },
+      {
+         "id":10,
+         "category":"Mythology",
+         "subcategory":"Norse Mythology",
+         "name":"Valhalla",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/valhalla/stock.html",
+            "pages/valhalla/obscure.html",
+            "https://en.wikipedia.org/wiki/Valhalla",
+            "https://www.youtube.com/watch?v=UgIVSOM0s7o"
+         ]
+      },
+      {
+         "id":11,
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Hideki Tojo",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/hideki_tojo/stock.html",
+            "pages/hideki_tojo/obscure.html",
+            "https://en.wikipedia.org/wiki/Hideki_Tojo",
+            "https://www.youtube.com/watch?v=gkkPOPKBTnc"
+         ]
+      },
+      {
+         "id":12,
+         "category":"Literature",
+         "subcategory":"European Literature",
+         "name":"Moliere",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/moliere/stock.html",
+            "pages/moliere/obscure.html",
+            "https://en.wikipedia.org/wiki/Moliere",
+            "https://www.youtube.com/watch?v=mdvfXzCoqvA"
+         ]
+      },
+      {
+         "id":13,
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"One",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/one/stock.html",
+            "pages/one/obscure.html",
+            "https://en.wikipedia.org/wiki/1",
+            "https://www.youtube.com/watch?v=bQZ0xbMHD7s"
+         ]
       }
    ]
 }
