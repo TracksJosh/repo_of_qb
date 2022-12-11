@@ -168,6 +168,110 @@
             "https://en.wikipedia.org/wiki/1",
             "https://www.youtube.com/watch?v=bQZ0xbMHD7s"
          ]
+      },
+      {
+         "id":14,
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Philippines",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/philippines/stock.html",
+            "pages/philippines/obscure.html",
+            "https://en.wikipedia.org/wiki/Philippines",
+            "https://www.youtube.com/watch?v=P-I4Bay5SXo"
+         ]
+      },
+      {
+         "id":15,
+         "category":"History",
+         "subcategory":"American History",
+         "name":"Open Door Policy",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/open_door_policy/stock.html",
+            "pages/open_door_policy/obscure.html",
+            "https://en.wikipedia.org/wiki/Open_Door_Policy",
+            "https://www.youtube.com/watch?v=MKkd_Fpqhg4"
+         ]
+      },
+      {
+         "id":16,
+         "category":"Geography",
+         "subcategory":"Geography",
+         "name":"Suez Canal",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/suez_canal/stock.html",
+            "pages/suez_canal/obscure.html",
+            "https://en.wikipedia.org/wiki/Suez_Canal",
+            "https://www.youtube.com/watch?v=18oHGUVBxUo"
+         ]
+      },
+      {
+         "id":17,
+         "category":"Literature",
+         "subcategory":"British Literature",
+         "name":"Paradise Lost",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/paradise_lost/stock.html",
+            "pages/paradise_lost/obscure.html",
+            "https://en.wikipedia.org/wiki/Paradise_Lost",
+            "https://www.youtube.com/watch?v=rqgUsVoLbl4"
+         ]
+      },
+      {
+         "id":18,
+         "category":"Science",
+         "subcategory":"Chemistry",
+         "name":"Aluminum",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/aluminum/stock.html",
+            "pages/aluminum/obscure.html",
+            "https://en.wikipedia.org/wiki/Aluminum",
+            "https://www.youtube.com/watch?v=4AhZ8503WPs"
+         ]
+      },
+      {
+         "id":19,
+         "category":"History",
+         "subcategory":"Ancient History",
+         "name":"Cyprus",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/cyprus/stock.html",
+            "pages/cyprus/obscure.html",
+            "https://en.wikipedia.org/wiki/Cyprus",
+            "https://www.youtube.com/watch?v=PF1uYm4l1Kc"
+         ]
+      },
+      {
+         "id":20,
+         "category":"History",
+         "subcategory":"European History",
+         "name":"Peter Carl Faberge",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/peter_carl_faberge/stock.html",
+            "pages/peter_carl_faberge/obscure.html",
+            "https://en.wikipedia.org/wiki/Peter_Carl_Faberge",
+            "https://www.youtube.com/watch?v=2f4G8dpbI0s"
+         ]
+      },
+      {
+         "id":21,
+         "category":"Science",
+         "subcategory":"Biology",
+         "name":"Dingo",
+         "date_added":"12/10/22",
+         "links":[
+            "pages/dingo/stock.html",
+            "pages/dingo/obscure.html",
+            "https://en.wikipedia.org/wiki/Dingo",
+            "https://www.youtube.com/watch?v=fsSZopC6FM"
+         ]
       }
    ]
 }
