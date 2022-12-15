@@ -19,5 +19,18 @@ async function getData()
     document.getElementById("query").innerHTML = text;
 }
 
+async function newPage()
+{
+	const obj = await fetch("https://raw.githubusercontent.com/TracksJosh/repo_of_qb/main/js/json/tossups.json");
+	const data = await obj.json();
+	for(var i = 0; i< data.tossups.length; i++)
+	{
+		var files = new File("/pages/"+data.tossups[i]);
+		if(myLog.exists()){
+			write('The file exists');
+		}
+	}
+}
 
 getData();
+newPage();

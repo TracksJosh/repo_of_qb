@@ -1,7 +1,7 @@
 {
    "tossups":[
       {
-         "id":1,
+         "id":"kelvin",
          "category":"Science",
          "subcategory":"Physics",
          "name":"Kelvin",
@@ -14,7 +14,7 @@
          ]
       },
       {
-         "id":2,
+         "id":"tibet",
          "category":"History",
          "subcategory":"World History",
          "name":"Tibet",
@@ -27,7 +27,7 @@
          ]
       },
       {
-         "id":3,
+         "id":"utrecht",
          "category":"History",
          "subcategory":"European History",
          "name":"Utrecht",
@@ -40,7 +40,7 @@
          ]
       },
       {
-         "id":4,
+         "id":"mobius_strip",
          "category":"Science",
          "subcategory":"Math",
          "name":"Mobius Strip",
@@ -53,7 +53,7 @@
          ]
       },
       {
-         "id":5,
+         "id":"a_modest_proposal",
          "category":"Literature",
          "subcategory":"Other Literature",
          "name":"A Modest Proposal",
@@ -66,20 +66,20 @@
          ]
       },
       {
-         "id":6,
+         "id":"rothschild_family",
          "category":"History",
          "subcategory":"European History",
          "name":"Rothschild Family",
          "date_added":"12/10/22",
          "links":[
-            "pages/modest_proposal/stock.html",
-            "pages/modest_proposal/obscure.html",
+            "pages/rothschild_family/stock.html",
+            "pages/rothschild_family/obscure.html",
             "https://en.wikipedia.org/wiki/Rothschild_family",
             "https://www.youtube.com/watch?v=KYCDT44qxJ0"
          ]
       },
       {
-         "id":7,
+         "id":"quark",
          "category":"Science",
          "subcategory":"Physics",
          "name":"Quark",
@@ -92,7 +92,7 @@
          ]
       },
       {
-         "id":8,
+         "id":"central_park",
          "category":"Fine Arts",
          "subcategory":"Other Fine Arts",
          "name":"Central Park",
@@ -105,7 +105,7 @@
          ]
       },
       {
-         "id":9,
+         "id":"percy_shelley",
          "category":"Literature",
          "subcategory":"British Literature",
          "name":"Percy Shelley",
@@ -118,7 +118,7 @@
          ]
       },
       {
-         "id":10,
+         "id":"valhalla",
          "category":"Mythology",
          "subcategory":"Norse Mythology",
          "name":"Valhalla",
@@ -131,7 +131,7 @@
          ]
       },
       {
-         "id":11,
+         "id":"hideki_tojo",
          "category":"History",
          "subcategory":"World History",
          "name":"Hideki Tojo",
@@ -144,7 +144,7 @@
          ]
       },
       {
-         "id":12,
+         "id":"moliere",
          "category":"Literature",
          "subcategory":"European Literature",
          "name":"Moliere",
@@ -157,7 +157,7 @@
          ]
       },
       {
-         "id":13,
+         "id":"one",
          "category":"Science",
          "subcategory":"Math",
          "name":"One",
@@ -170,7 +170,7 @@
          ]
       },
       {
-         "id":14,
+         "id":"philippines",
          "category":"History",
          "subcategory":"World History",
          "name":"Philippines",
@@ -183,7 +183,7 @@
          ]
       },
       {
-         "id":15,
+         "id":"open_door_policy",
          "category":"History",
          "subcategory":"American History",
          "name":"Open Door Policy",
@@ -196,7 +196,7 @@
          ]
       },
       {
-         "id":16,
+         "id":"suez_canal",
          "category":"Geography",
          "subcategory":"Geography",
          "name":"Suez Canal",
@@ -209,7 +209,7 @@
          ]
       },
       {
-         "id":17,
+         "id":"paradise_lost",
          "category":"Literature",
          "subcategory":"British Literature",
          "name":"Paradise Lost",
@@ -222,7 +222,7 @@
          ]
       },
       {
-         "id":18,
+         "id":"aluminum",
          "category":"Science",
          "subcategory":"Chemistry",
          "name":"Aluminum",
@@ -235,7 +235,7 @@
          ]
       },
       {
-         "id":19,
+         "id":"cyprus",
          "category":"History",
          "subcategory":"Ancient History",
          "name":"Cyprus",
@@ -248,7 +248,7 @@
          ]
       },
       {
-         "id":20,
+         "id":"peter_carl_faberge",
          "category":"History",
          "subcategory":"European History",
          "name":"Peter Carl Faberge",
@@ -261,7 +261,7 @@
          ]
       },
       {
-         "id":21,
+         "id":"dingo",
          "category":"Science",
          "subcategory":"Biology",
          "name":"Dingo",
