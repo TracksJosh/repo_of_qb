@@ -629,7 +629,7 @@
          "id":"halleys_comet",
          "category":"Science",
          "subcategory":"Other Science",
-         "name":"Halley\'s Comet",
+         "name":"Halley's Comet",
          "date_added":"12/15/22",
          "links":[
             "pages/halleys_comet/stock.html",
@@ -700,17 +700,6 @@
          "links":[
             "pages/theia/stock.html",
             "pages/theia/obscure.html"
-         ]
-      },
-      {
-         "id":"comet_67p",
-         "category":"Science",
-         "subcategory":"Other Science",
-         "name":"Comet 67P",
-         "date_added":"12/15/22",
-         "links":[
-            "pages/comet_67p/stock.html",
-            "pages/comet_67p/obscure.html"
          ]
       },
       {
