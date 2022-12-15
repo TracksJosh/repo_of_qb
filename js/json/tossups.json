@@ -272,6 +272,457 @@
             "https://en.wikipedia.org/wiki/Dingo",
             "https://www.youtube.com/watch?v=fsSZopC6FM"
          ]
+      },
+      {
+         "id":"lisa",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"LISA",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/lisa/stock.html",
+            "pages/lisa/obscure.html"
+         ]
+      },
+      {
+         "id":"voyager_i",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Voyager I",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/voyager_i/stock.html",
+            "pages/voyager_i/obscure.html"
+         ]
+      },
+      {
+         "id":"voyager_ii",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Voyager II",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/voyager_ii/stock.html",
+            "pages/voyager_ii/obscure.html"
+         ]
+      },
+      {
+         "id":"rosetta",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Rosetta",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/rosetta/stock.html",
+            "pages/rosetta/obscure.html"
+         ]
+      },
+      {
+         "id":"dawn",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Dawn",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/dawn/stock.html",
+            "pages/dawn/obscure.html"
+         ]
+      },
+      {
+         "id":"new_horizons",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"New Horizons",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/new_horizons/stock.html",
+            "pages/new_horizons/obscure.html"
+         ]
+      },
+      {
+         "id":"cassini-huygens",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Cassini-Huygens",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/cassini-huygens/stock.html",
+            "pages/cassini-huygens/obscure.html"
+         ]
+      },
+      {
+         "id":"giotto",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Giotto",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/giotto/stock.html",
+            "pages/giotto/obscure.html"
+         ]
+      },
+      {
+         "id":"akatsuki",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Akatsuki",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/akatsuki/stock.html",
+            "pages/akatsuki/obscure.html"
+         ]
+      },
+      {
+         "id":"pioneer_10",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Pioneer 10",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/pioneer_10/stock.html",
+            "pages/pioneer_10/obscure.html"
+         ]
+      },
+      {
+         "id":"messenger",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"MESSENGER",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/messenger/stock.html",
+            "pages/messenger/obscure.html"
+         ]
+      },
+      {
+         "id":"santa_anna",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Santa Anna",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/santa_anna/stock.html",
+            "pages/santa_anna/obscure.html"
+         ]
+      },
+      {
+         "id":"benito_juarez",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Benito Juarez",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/benito_juarez/stock.html",
+            "pages/benito_juarez/obscure.html"
+         ]
+      },
+      {
+         "id":"venustiano_carranza",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Venustiano Carranza",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/venustiano_carranza/stock.html",
+            "pages/venustiano_carranza/obscure.html"
+         ]
+      },
+      {
+         "id":"alvaro_obregon",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Alvaro Obregon",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/alvaro_obregon/stock.html",
+            "pages/alvaro_obregon/obscure.html"
+         ]
+      ,
+      {
+         "id":"porfirio_diaz",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Porfirio Diaz",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/porfirio_diaz/stock.html",
+            "pages/porfirio_diaz/obscure.html"
+         ]
+      },
+      {
+         "id":"andrez_manuel_lopez_obrador",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Andrez Manuel Lopez Obrador",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/andrez_manuel_lopez_obrador/stock.html",
+            "pages/andrez_manuel_lopez_obrador/obscure.html"
+         ]
+      },
+      {
+         "id":"lazaro_cardenas",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Lazaro Cardenas",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/lazaro_cardenas/stock.html",
+            "pages/lazaro_cardenas/obscure.html"
+         ]
+      },
+      {
+         "id":"francisco_madero",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Francisco Madero",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/francisco_madero/stock.html",
+            "pages/francisco_madero/obscure.html"
+         ]
+      },
+      {
+         "id":"victoriano_huerta",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Victoriano Huerta",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/victoriano_huerta/stock.html",
+            "pages/victoriano_huerta/obscure.html"
+         ]
+      },
+      {
+         "id":"vincente_guerrero",
+         "category":"History",
+         "subcategory":"World History",
+         "name":"Vincente Guerrero",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/vincente_guerrero/stock.html",
+            "pages/vincente_guerrero/obscure.html"
+         ]
+      },
+      {
+         "id":"limit",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Limit",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/limit/stock.html",
+            "pages/limit/obscure.html"
+         ]
+      },
+      {
+         "id":"continuity",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Continuity",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/continuity/stock.html",
+            "pages/continuity/obscure.html"
+         ]
+      },
+      {
+         "id":"derivative",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Derivative",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/derivative/stock.html",
+            "pages/derivative/obscure.html"
+         ]
+      },
+      {
+         "id":"differentiable",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Differentiable",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/differentiable/stock.html",
+            "pages/differentiable/obscure.html"
+         ]
+      },
+      {
+         "id":"definite_integral",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Definite Integral",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/definite_integral/stock.html",
+            "pages/definite_integral/obscure.html"
+         ]
+      },
+      {
+         "id":"fundamental_theorem_of_calculus",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Fundamental Theorem of Calculus",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/fundamental_theorem_of_calculus/stock.html",
+            "pages/fundamental_theorem_of_calculus/obscure.html"
+         ]
+      },
+      {
+         "id":"chain_rule",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Chain Rule",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/chain_rule/stock.html",
+            "pages/chain_rule/obscure.html"
+         ]
+      },
+      {
+         "id":"product_rule",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Product Rule",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/product_rule/stock.html",
+            "pages/product_rule/obscure.html"
+         ]
+      },
+      {
+         "id":"taylor_series",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Taylor Series",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/taylor_series/stock.html",
+            "pages/taylor_series/obscure.html"
+         ]
+      },
+      {
+         "id":"differential_equations",
+         "category":"Science",
+         "subcategory":"Math",
+         "name":"Differential Equations",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/differential_equations/stock.html",
+            "pages/differential_equations/obscure.html"
+         ]
+      },
+      {
+         "id":"pluto",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Pluto",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/pluto/stock.html",
+            "pages/pluto/obscure.html"
+         ]
+      },
+      {
+         "id":"halleys_comet",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Halley\'s Comet",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/halleys_comet/stock.html",
+            "pages/halleys_comet/obscure.html"
+         ]
+      },
+      {
+         "id":"comet_hale-bopp",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Comet Hale-Bopp",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/comet_hale-bopp/stock.html",
+            "pages/comet_hale-bopp/obscure.html"
+         ]
+      },
+      {
+         "id":"comet_shoemaker-levy_9",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Comet Shoemaker-Levy 9",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/comet_shoemaker-levy_9/stock.html",
+            "pages/comet_shoemaker-levy_9/obscure.html"
+         ]
+      },
+      {
+         "id":"ceres",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Ceres",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/ceres/stock.html",
+            "pages/ceres/obscure.html"
+         ]
+      },
+      {
+         "id":"vesta",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Vesta",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/vesta/stock.html",
+            "pages/vesta/obscure.html"
+         ]
+      },
+      {
+         "id":"eris",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Eris",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/eris/stock.html",
+            "pages/eris/obscure.html"
+         ]
+      },
+      {
+         "id":"theia",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Theia",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/theia/stock.html",
+            "pages/theia/obscure.html"
+         ]
+      },
+      {
+         "id":"comet_67p",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Comet 67P",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/comet_67p/stock.html",
+            "pages/comet_67p/obscure.html"
+         ]
+      },
+      {
+         "id":"comet_67p",
+         "category":"Science",
+         "subcategory":"Other Science",
+         "name":"Comet 67P",
+         "date_added":"12/15/22",
+         "links":[
+            "pages/comet_67p/stock.html",
+            "pages/comet_67p/obscure.html"
+         ]
       }
    ]
 }
