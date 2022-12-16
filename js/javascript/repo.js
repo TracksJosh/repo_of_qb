@@ -5,6 +5,7 @@ async function getData()
     const obj = await fetch("https://raw.githubusercontent.com/TracksJosh/repo_of_qb/main/js/json/tossups.json");
 	const data = await obj.json();
 	let text = "";
+	console.log(data.tossups.length);
 	for(var i = 0; i < data.tossups.length; i++)
 	{
 	    text += `<div class="tossup"><p>`+data.tossups[i].name+` `;	
