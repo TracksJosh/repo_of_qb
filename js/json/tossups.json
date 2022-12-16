@@ -549,14 +549,14 @@
          ]
       },
       {
-         "id":"definite_integral",
+         "id":"definite_integration",
          "category":"Science",
          "subcategory":"Math",
-         "name":"Definite Integral",
+         "name":"Definite Integration",
          "date_added":"12/15/22",
          "links":[
-            "pages/definite_integral/stock.html",
-            "pages/definite_integral/obscure.html"
+            "pages/definite_integration/stock.html",
+            "pages/definite_integration/obscure.html"
          ]
       },
       {
