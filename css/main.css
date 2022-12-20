@@ -19,6 +19,36 @@ body{
 	margin-top: -75px;
 }
 
+.problem {
+	font-family: "Britannic";
+	text-align: center;
+	color: #D5D4D2;
+	font-size: 18px;
+	font-style: italic;
+	margin-top: 5px;
+}
+
+select {
+	width: auto;
+	height: 50px;
+	font-size: 24px;
+	text-align: center;
+}
+
+input {
+	width: auto;
+	height: 50px;
+	font-size: 24px;
+	text-align: center;
+	margin: 20px;
+}
+
+button {
+	background: transparent;
+	border: 0px;
+	cursor:pointer;
+}
+
 .tossup {
 	font-family: "Special Elite";
 	font-size: 50;
