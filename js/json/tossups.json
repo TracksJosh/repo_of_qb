@@ -1944,6 +1944,94 @@
             "pages/william_rowan_hamilton/stock.html",
             "pages/william_rowan_hamilton/obscure.html"
          ]
+      },
+      {
+         "id":"the_grapes_of_wrath",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"The Grapes of Wrath",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/the_grapes_of_wrath/stock.html",
+            "pages/the_grapes_of_wrath/obscure.html"
+         ]
+      },
+      {
+         "id":"of_mice_and_men",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"Of Mice and Men",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/of_mice_and_men/stock.html",
+            "pages/of_mice_and_men/obscure.html"
+         ]
+      },
+      {
+         "id":"east_of_eden",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"East of Eden",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/east_of_eden/stock.html",
+            "pages/east_of_eden/obscure.html"
+         ]
+      },
+      {
+         "id":"cannery_row",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"Cannery Row",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/cannery_row/stock.html",
+            "pages/cannery_row/obscure.html"
+         ]
+      },
+      {
+         "id":"the_pearl",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"The Pearl",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/the_pearl/stock.html",
+            "pages/the_pearl/obscure.html"
+         ]
+      },
+      {
+         "id":"travels_with_charley",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"Travels with Charley",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/travels_with_charley/stock.html",
+            "pages/travels_with_charley/obscure.html"
+         ]
+      },
+      {
+         "id":"the_red_pony",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"The Red Pony",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/the_red_pony/stock.html",
+            "pages/the_red_pony/obscure.html"
+         ]
+      },
+      {
+         "id":"in_dubious_battle",
+         "category":"Literature",
+         "subcategory":"American Literature",
+         "name":"In Dubious Battle",
+         "date_added":"12/19/2022",
+         "links":[
+            "pages/in_dubious_battle/stock.html",
+            "pages/in_dubious_battle/obscure.html"
+         ]
       }
    ]
 }
