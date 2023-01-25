@@ -10,6 +10,7 @@ body{
 	font-size: 108px;
 }
 
+
 .flavor {
 	font-family: "Britannic";
 	text-align: center;
@@ -17,6 +18,14 @@ body{
 	font-size: 18px;
 	font-style: italic;
 	margin-top: -75px;
+}
+
+.pagenum {
+	font-family: "Britannic";
+	text-align: center;
+	color: #D5D4D2;
+	font-size: 24px;
+	margin-top: 100px;
 }
 
 .problem {
@@ -48,6 +57,7 @@ button {
 	border: 0px;
 	cursor:pointer;
 }
+
 
 .tossup {
 	font-family: "Special Elite";
@@ -86,4 +96,18 @@ a:link {
 
 a:visited{
 	color: #828282;
+}
+
+.capacity {
+	font-family: "Britannic";
+	text-align: center;
+	color: #2B2C2E;
+	font-size: 32px;
+}
+
+label {
+	font-family: "Britannic";
+	text-align: center;
+	color: #D5D4D2;
+	font-size: 32px;
 }

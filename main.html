@@ -8,6 +8,14 @@
 	</head>
 	<body>
 	    <p class="header">Repository of Quizbowl</p>
+		<div align="center">
+			<label for="capacity" align="center">Number Per Page:</label>
+			<input type="number" class="capacity" name="capacity" value="30" min="1" max="10000" onchange="numb(this.value)"></input>
+			<input id="searchbar" onchange="search(this.value)"></input>
+		</div>
 		<div id="query"></div>
+		<div class="pagenum" id="pageNum" align="center"></div>
+		<div id="pages" align="center">
+		</div>
 	</body>
 </html>
